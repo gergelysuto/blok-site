@@ -1,2 +1,2 @@
 # blok-site
-départ pour créer le gros de la structure du site!
+Beaucoup d'action de cadrage et lumières: musique devient aussi plus active selon les possibilités. Les enchainements sont infuencés par la densité d'activité
