@@ -1,5 +1,5 @@
 # blok-site
-Beaucoup d'action de cadrage et lumières: musique devient aussi plus active selon les possibilités. Les enchainements sont infuencés par la densité d'activité
+Beaucoup d'action de cadrage et lumières: musique devient aussi plus active selon les possibilités. Les enchainements sont influencés par la densité d'activité
 
 
 
