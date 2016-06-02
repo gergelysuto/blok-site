@@ -1,2 +1,11 @@
 # blok-site
 Beaucoup d'action de cadrage et lumières: musique devient aussi plus active selon les possibilités. Les enchainements sont infuencés par la densité d'activité
+
+
+Movie compression: how to compress radically, using subjective choices, (radical color, framerate, resulution reduction) that may make the end result look artistically convincing
+
+Uncomplete webgl solutions: instead of the whole package, chose some webgl aspects and neglect other ones for an artistically interesting result. Example: instead of "real 3d", using layered screens with basic lighting, like a shadow theatre.
+
+Very strong responsive design programing
+
+Multitrack sound sample management with mixing features and timed and non-timed event management
